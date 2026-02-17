@@ -1,8 +1,10 @@
 .env
+generated_credentials.txt
 __pycache__/
 *.pyc
 db.sqlite3
 staticfiles/
 media/
-.vscode/
-*.log
+node_modules/
+dist/
+build/
